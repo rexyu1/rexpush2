@@ -1,2 +1,3 @@
 # hello-world
-rexyu1 edit it 2 just another repository
+some static content
+rexyu1 edit it 3 just another repository
